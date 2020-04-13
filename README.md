@@ -1,6 +1,6 @@
 ![GoStack Bootcamp](https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png "GoStack Bootcamp")
 
-# [Challenge 04 - NodeJS Fundamentals](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-nodejs)
+# [Challenge 05 - NodeJS Fundamentals](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-nodejs)
 
 In this challenge you must create an application to keep training what you've learned so far in NodeJS and TypeScript, using concepts of models, repositories and services!
 
